@@ -1,4 +1,4 @@
-name: Golang Unit Testing
+name: Unit Testing
 
 on:
   push:
